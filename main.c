@@ -1,9 +1,9 @@
 /*
 main.c
 ------
-Par mateo21, pour Le Site du Zéro (www.siteduzero.com)
-Rôle : menu du jeu. Permet de choisir entre l'éditeur et le jeu
-lui-même.
+Par mateo21, pour Le Site du ZÃ©ro (www.siteduzero.com)
+RÃ´le : menu du jeu. Permet de choisir entre l'Ã©diteur et le jeu
+lui-mÃªme.
 */
 #include <stdlib.h>
 #include <stdio.h>
